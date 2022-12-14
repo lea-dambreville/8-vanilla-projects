@@ -1,4 +1,4 @@
-## Vanilla Project 1
+## TaskList -  Vanilla Project 1
 
 This is a mini adaptation project.
 
